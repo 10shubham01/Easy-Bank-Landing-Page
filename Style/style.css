@@ -216,7 +216,7 @@ nav {
 }
 
 .why-heading>p {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 25px;
     padding-top: 5%;
     color: var(--Grayish-Blue);
@@ -240,7 +240,7 @@ nav {
 }
 
 .card-content>p {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 25px;
     padding-top: 5%;
     color: var(--Grayish-Blue);
@@ -305,7 +305,7 @@ nav {
 
 .article-content>p {
     padding-top: 5%;
-    font-size: 18px;
+    font-size: 16px;
     color: var(--Grayish-Blue);
     line-height: 25px;
 }
@@ -460,7 +460,7 @@ button:hover {
         text-align: left;
     }
     .hero-text>P {
-        font-size: 18px;
+        font-size: 16px;
         padding: 0% 0% 10% 0;
     }
     .why-section {
